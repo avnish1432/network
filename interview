@@ -1,0 +1,44 @@
+#Linux Topics (Dive deep knowledge not limited to)
+
+- Booting process (RHEL6,8) and Booting issues troubleshooting
+- Kernel error analysis, SOS report analysis
+- Memory Management, Connectivity troubleshooting (SSH, NFS, SFTP, FTP, DNS, Packet flow)
+- Performance troubleshooting (CPU,Memory,Disk,Network,hardware)
+- Website troubleshooting (DNS, Apache,nginx,proxy) and components of scalable website
+- File system management and user account/control
+
+# Network Topics (Dive deep knowledge not limited to)
+
+- DHCP, DORA,DNS,Network troubleshooting tools, Flow of a packet, OSI model
+- TCP/IP structure of packet, TCP 3 Way handshake, TCP Half close, TCP 4-way closure
+- Traceroute, ping MTR working in detail and output analysis, Bandwidth troubleshooting, Analysis of packet capture
+
+# Links for getting basic idea of the topics. Dive deep needs to be done on these topics separately
+
+1. Booting - https://www.tecmint.com/linux-boot-process/
+2. RHEL6/7 - https://arkit.co.in/rhel-6-vs-rhel-7-difference-previous-newer-version/
+3. Book which covers most of networking part in detail - http://zai.lecturer.pens.ac.id/Kuliah/Komunikasi%20Data/Buku%20Referensi/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf
+4. Networking video playlist - https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
+5. Memory/swap management - https://superuser.com/questions/1104553/linux-swap-slowing-my-system
+6. IOwait. https://support.hpe.com/hpsc/doc/public/display?docId=c02783994
+7. Iostat -IO monitoring https://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/
+8. Understand routing  https://superuser.com/questions/331720/how-do-i-set-the-priority-of-network-connections-in-ubuntu
+9. Website error codes  https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes and http://www.windowsnetworking.com/articles-tutorials/network-protocols/Understanding-HTTP-Protocol-Part1.html
+10. Manage partitions https://www.howtogeek.com/106873/how-to-use-fdisk-to-manage-partitions-on-linux/    and  https://blog.myduniahosting.com/how-to-resize-your-root-diskpartition-online-for-linux/
+11. Zombie and orphan process  https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/
+12. DHCP /DORA process  https://ipwithease.com/understanding-dora-process-in-dhcp/
+13. How to understand if system is under memory pressure https://www.tecmint.com/check-memory-usage-in-linux/
+14. TCP- Sequence and ack numbers – https://youtu.be/8XJPZttC4RM
+15. Yum history manipulations https://www.thegeekdiary.com/yum-history-command-examples-to-display-rollback-redo-undo-yum-transactions/
+16. https://www.linuxnix.com/what-is-linuxunix-dmesg-command-and-how-to-use-it/
+17. website troubleshooting https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-site-issues-on-a-linux-server
+18. TCP- Sequence and ack numbers – https://youtu.be/8XJPZttC4RM
+19. User management and permissions -https://www.linux.com/learn/understanding-linux-file-permissions
+20. Process Management -  http://ryanstutorials.net/linuxtutorial/processes.php  and  http://www.hostingadvice.com/blog/linux-process-management-commands-know/  and  http://www.informit.com/articles/article.aspx?p=370047
+21. Memory management - http://www.tldp.org/LDP/tlk/mm/memory.html and  http://linux-training.be/sysadmin/ch18.html
+22. Cisco - https://learningnetwork.cisco.com/community/certifications/ccna/icnd1/study-material
+23. TCP - http://www.tcpipguide.com/free/t_TCPIPArchitectureandtheTCPIPModel-2.htm
+24. 3 way handshake - https://support.microsoft.com/en-in/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip
+25. NAT - http://www.ciscopress.com/articles/article.asp?p=1725268
+
+
